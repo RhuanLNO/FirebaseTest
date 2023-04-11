@@ -34,7 +34,7 @@ const navBar:React.FC = () => {
             >
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1, color: '#E5DCC5' }}>
-              RageQuit
+              RageQuit Membros
             </Typography>
           </Toolbar>
         </AppBar>
